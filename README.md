@@ -8,7 +8,7 @@
 <img src="./README_Image/game1_Image.png" width="500" height="400"/>
 
 - 게임 화면 1
-<img src="./README_Image/game2_Image.png" width="500" height="500"/>
+<img src="./README_Image/game2_Image.png" width="500" height="550"/>
 
 - 게임 화면 2
-<img src="./README_Image/game2_Image.png" width="500" height="500"/>
+<img src="./README_Image/game3_Image.png" width="500" height="550"/>
