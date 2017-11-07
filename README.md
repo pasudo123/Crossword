@@ -1,6 +1,6 @@
 <bold><h1>Crossword</h1></bold>
 2016 Summer Project : Crossword Game implements in Java<br>
-2016년 여름 대학교 3학년때 하였던 자바 스윙 프로젝트.
+2016년 여름, 대학교 3학년 때 하였던 자바 스윙 프로젝트.
 
 <bold><h2>Game Screenshot</h2></bold>
 
